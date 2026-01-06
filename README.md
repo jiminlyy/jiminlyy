@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/jiminlyy/jiminlyy/main/assets/cloud-banner.svg" alt="cloud banner" />
 </p>
-
 ---
 
 ## 🩵 About Me
