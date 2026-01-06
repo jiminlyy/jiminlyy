@@ -22,5 +22,5 @@
 
 <!-- 푸터 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0C3FC,100:8EC5FC&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BFE7FF,100:F0D9FF&height=120&section=footer"/>
 </p>
