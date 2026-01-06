@@ -3,26 +3,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,100:E0C3FC&height=200&section=header&text=JIMIN%20LEE&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">🩵 Computer Science Student · Problem Solver</h3>
 
-<p align="center">
-  <em>
-    I enjoy breaking down problems, understanding systems deeply,<br/>
-    and building things step by step.
-  </em>
-</p>
 
 ---
 
-## 🔹 About Me
+## 🩵 About Me
 - 🎓 Computer Science major
-- 💻 Interested in **Algorithms, System Software, AI**
-- 📘 Currently studying **C / C++**, data structures, and problem solving
-- 🌱 Goal: become a developer with **strong fundamentals**
 
 ---
 
-## 🔹 Tech Stack
+## 🩵 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/C-8EC5FC?style=flat-square&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-8EC5FC?style=flat-square&logo=cplusplus&logoColor=white"/>
@@ -32,32 +22,6 @@
 
 ---
 
-## 🔹 Featured Projects
-🔹 **ALGORITHM**
-- Solving algorithm problems using C++
-- Focused on data structures and logical thinking
-
-🔹 **SystemSoftware_hw**
-- Final assignment for system software
-- Hands-on experience with low-level programming
-
----
-
-## 🔹 What I Value
-- ✨ Clean and readable code
-- 🧠 Understanding *why* things work
-- 📈 Slow but steady improvement
-
----
-
-## 🔹 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jiminlyy&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiminlyy&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 <!-- 푸터 -->
 <p align="center">
