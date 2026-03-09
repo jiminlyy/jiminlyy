@@ -14,6 +14,10 @@
   <img src="https://img.shields.io/badge/C++-8EC5FC?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-8EC5FC?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-8EC5FC?style=flat-square&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-8EC5FC?style=flat-square&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-8EC5FC?style=flat-square&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-8EC5FC?style=flat-square&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-8EC5FC?style=flat-square&logo=linux&logoColor=white"/>
 </p>
 
 ---
