@@ -6,6 +6,7 @@
 
 ## 🩵 About Me
 - 🎓 Computer Science major
+- 🌱 Growing step by step through every contribution
 
 ---
 
@@ -23,6 +24,24 @@
 
 ---
 
+## 🐍 Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiminlyy/jiminlyy/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jiminlyy/jiminlyy/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/jiminlyy/jiminlyy/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jiminlyy&show_icons=true&hide_border=true&title_color=8EC5FC&icon_color=8EC5FC&text_color=6B7280&bg_color=00000000" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiminlyy&layout=compact&hide_border=true&title_color=8EC5FC&text_color=6B7280&bg_color=00000000" height="165"/>
+</p>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BFE7FF,100:F0D9FF&height=120&section=footer"/>
