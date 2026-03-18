@@ -5,7 +5,7 @@
 ---
 
 ## 🩵 About Me
-- 🎓 Computer Science major, Dongguk usniversity
+- 🎓 Computer Science major
 
 ---
 
