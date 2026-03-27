@@ -23,7 +23,7 @@
 
 ---
 
-## 🐛 Contribution Snake
+## 🐛 Contribution larva
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiminlyy/jiminlyy/output/github-contribution-grid-snake-dark.svg" />
